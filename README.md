@@ -1,8 +1,35 @@
-# Getting Started with Create React App
+# Modern Appartment React app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Modern Apartment React app is a sophisticated and responsive web application built using HTML, CSS, JavaScript, Bootstrap CSS, and React.js. It offers a user-friendly interface to showcase modern apartments and facilitate property browsing. The app utilizes HTML for content structure, CSS for styling and layout, JavaScript for interactivity, Bootstrap CSS for a responsive design and pre-built components, and React.js for efficient and dynamic UI rendering. The Modern Apartment React app allows users to explore various apartments, view property details, check availability, and even book appointments or make inquiries. With its use of React.js, the app offers seamless navigation, real-time updates, and a smooth user experience. The incorporation of Bootstrap CSS ensures the app's responsiveness across different devices and screen sizes. The Modern Apartment React app combines the power of React.js with the convenience of Bootstrap CSS to deliver a visually appealing and feature-rich web application for modern apartment browsing.
 
-## Available Scripts
+## Badges
+
+[![HTML](https://img.shields.io/badge/Built%20with-HTML-orange?style=flat-square&logo=html5)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/Styled%20with-CSS-blue?style=flat-square&logo=css3&logoColor=blue)](https://www.w3.org/Style/CSS/Overview.en.html)
+![Bootstrap CSS](https://img.shields.io/badge/CSS%20framework-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/Powered%20by-JavaScript-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![SCSS](https://img.shields.io/badge/JavaScript%20library-React-61DAFB?style=flat-square&for-the-badge&logo=react&logoColor=white)
+[![Responsive Design](https://img.shields.io/badge/Responsive-Design-green?style=flat-square&logo=responsive-design)](https://en.wikipedia.org/wiki/Responsive_web_design)
+[![Mobile-Friendly](https://img.shields.io/badge/Mobile-Friendly-brightgreen?style=flat-square&logo=mobile)](https://developers.google.com/web/fundamentals/design-and-ux/principles)
+[![Conversion Rate](https://img.shields.io/badge/High-Conversion%20Rate-success?style=flat-square&logo=conversionxl)](https://conversionxl.com/blog/)
+
+## Demo
+
+Check out the live demo of the Modern Appartment React app [here](https://appartmentapp.vercel.app/).
+
+## Screenshots
+
+![App Screenshot](https://res.cloudinary.com/denajbnh4/image/upload/v1683798914/Khawar/Screenshot_11_tuvo9v.png)
+
+## Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&for-the-badge&logo=react&logoColor=white)
+
+## Run Locally
 
 In the project directory, you can run:
 
@@ -39,32 +66,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## About Me
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[@Khawar Sultan](https://github.com/KhawarSultan) A Creative Front-End Web Developer providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Aspiring to Create Your Websites with strong technical skills as a Front-End Developer
 
-### Code Splitting
+## Links
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhawarSultan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=font-awesome&logoColor=white)](https://khawarportfolio.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khawar-sultan-989314209/)
